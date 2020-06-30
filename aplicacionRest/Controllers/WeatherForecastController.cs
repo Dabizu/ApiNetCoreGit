@@ -13,7 +13,7 @@ namespace aplicacionRest.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+            "Frio", "Nublado", "Caliente", "Nevado", "Lluvioso", "Tibio", "Tormenta", "Granizo", "Ventoso"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
@@ -31,7 +31,8 @@ namespace aplicacionRest.Controllers
             {
                 Date = DateTime.Now.AddDays(index),
                 TemperatureC = rng.Next(-20, 55),
-                Summary = Summaries[rng.Next(Summaries.Length)]
+                Summary = Summaries[rng.Next(Summaries.Length)],
+                comment = "Sin comentario"
             })
             .ToArray();
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fBzwMFCxJ+/jQR9T86CAsR3TKe+EQhK8BFw3AghCfOeFDyVEm5z43M8sb7Z1WfotrUUa/7UzBUnd1aMeiIWHsg==",
+  "dgSpecHash": "8C4Xg8/m9X8vzZUnCEQc4AaM4153jHiiHP575y6ib6mn25/A2CagZppTYkGywOQuSyXLw2NDc+5umAnd/P5V1A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dabizu Garushia\\Documents\\ejemplos_en_c#\\ApiNetCore\\aplicacionRest\\aplicacionRest.csproj",
+  "projectFilePath": "C:\\Users\\Actek\\source\\repos\\ApiNetCoreGit\\aplicacionRest\\aplicacionRest.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

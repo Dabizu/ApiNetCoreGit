@@ -1,24 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dabizu Garushia\\Documents\\ejemplos_en_c#\\ApiNetCore\\aplicacionRest\\aplicacionRest.csproj": {}
+    "C:\\Users\\Actek\\source\\repos\\ApiNetCoreGit\\aplicacionRest\\aplicacionRest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dabizu Garushia\\Documents\\ejemplos_en_c#\\ApiNetCore\\aplicacionRest\\aplicacionRest.csproj": {
+    "C:\\Users\\Actek\\source\\repos\\ApiNetCoreGit\\aplicacionRest\\aplicacionRest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dabizu Garushia\\Documents\\ejemplos_en_c#\\ApiNetCore\\aplicacionRest\\aplicacionRest.csproj",
+        "projectUniqueName": "C:\\Users\\Actek\\source\\repos\\ApiNetCoreGit\\aplicacionRest\\aplicacionRest.csproj",
         "projectName": "aplicacionRest",
-        "projectPath": "C:\\Users\\Dabizu Garushia\\Documents\\ejemplos_en_c#\\ApiNetCore\\aplicacionRest\\aplicacionRest.csproj",
-        "packagesPath": "C:\\Users\\Dabizu Garushia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dabizu Garushia\\Documents\\ejemplos_en_c#\\ApiNetCore\\aplicacionRest\\obj\\",
+        "projectPath": "C:\\Users\\Actek\\source\\repos\\ApiNetCoreGit\\aplicacionRest\\aplicacionRest.csproj",
+        "packagesPath": "C:\\Users\\Actek\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Actek\\source\\repos\\ApiNetCoreGit\\aplicacionRest\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Dabizu Garushia\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Actek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {}
@@ -50,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
