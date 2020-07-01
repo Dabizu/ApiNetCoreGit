@@ -13,7 +13,8 @@ namespace aplicacionRest.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Frio", "Nublado", "Caliente", "Nevado", "Lluvioso", "Tibio", "Tormenta", "Granizo", "Ventoso"
+            "Frio", "Nublado", "Caliente", "Nevado", "Lluvioso", "Tibio", "Tormenta", "Granizo", "Ventoso",
+            "Calido","Comodo", "salir", "maestra", "comida", "monita china"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
